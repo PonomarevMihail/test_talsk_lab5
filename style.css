@@ -19,8 +19,8 @@ footer {
     color: cold yellow;
 }
 a.foo:hover {
-  text-decoration-color: black;
-  color: black;
+  text-decoration-color: purple;
+  color: dark green;
 }
 a.foo {
   text-decoration-color: white;
